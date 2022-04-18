@@ -1,0 +1,79 @@
+
+
+ul li{
+
+    list-style-type: none;
+    font-style: italic;
+    font-size: 175%;
+}
+
+.letraNormal{
+    font-style: normal;
+}
+
+.letraCursiva{
+    font-style: italic;
+}
+
+.letraNegrita{
+    font-weight: bold;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.derecha{
+    text-align: right;
+}
+
+.izquierda{
+    text-align: left;
+}
+
+.fondo{
+    background-image: url(./../img/fondo.jpg);
+}
+
+
+
+.menu{
+    display: inline;
+    background-color: gray;
+    width:max-content;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-color:black;
+    border-style:double;
+}
+
+#titulo{
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-top: 12px;
+
+}
+#footer{
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-top: 12px;
+    background-color: white;
+    border-style: initial;
+    border-color: black;
+
+}
+
+#subtitulo{
+    
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-top: 12px;
+    color:red;
+    
+}
+
